@@ -65,6 +65,36 @@
         "previewimage": "",
         "spotlightLogo": "",
         "newsfeedLogo": "",
+        "modDate": "1542009101621",
+        "overlay": "",
+        "linkurl": "",
+        "partnername": "",
+        "portraitimage": "",
+        "title": "Test How to trim a mustache",
+        "link": "https://www.usa.philips.com/c-w/malegrooming/products/face-style/How-to-trim-a-mustache.html",
+        "uid": "How to trim a mustache",
+        "imageUrl": "https://www.usa.philips.com/c-dam/b2c/male-grooming-experience-center/master/generic/Engaging-Content/trim-mustache_newsfeed.jpg",
+        "text": "",
+        "description": "With Movember firmly planted in the calendar of beard culture, the mustache seems to be back to stay. As a temporary novelty or a year-round lifestyle, men keep going for the mo’",
+        "tags": [
+          {
+            "isVisibleOnWeb": true,
+            "name": "App Detail",
+            "key": "malegroomingkeywords++app+appdetail",
+            "id": "malegroomingkeywords:app/appdetail"
+          },
+          {
+            "isVisibleOnWeb": true,
+            "name": "App",
+            "key": "malegroomingkeywords++app",
+            "id": "malegroomingkeywords:app"
+          }
+        ]
+      },
+      {
+        "previewimage": "",
+        "spotlightLogo": "",
+        "newsfeedLogo": "",
         "modDate": "1541406466693",
         "overlay": "",
         "linkurl": "",
