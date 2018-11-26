@@ -155,6 +155,36 @@
         "previewimage": "",
         "spotlightLogo": "",
         "newsfeedLogo": "",
+        "modDate": "1541406466693",
+        "overlay": "",
+        "linkurl": "",
+        "partnername": "",
+        "portraitimage": "",
+        "title": "Mustacheabc styles: What are your options?",
+        "link": "https://www.usa.philips.com/c-w/malegrooming/products/face-style/mustache-styles-what-are-your-options.html",
+        "uid": "Mustache styles: What are your options?",
+        "imageUrl": "https://www.usa.philips.com/c-dam/b2c/male-grooming-experience-center/master/generic/Engaging-Content/mustache-styles_newsfeed.jpg",
+        "text": "",
+        "description": "A quick introduction to the best mustache styles around",
+        "tags": [
+          {
+            "isVisibleOnWeb": true,
+            "name": "App Detail",
+            "key": "malegroomingkeywords++app+appdetail",
+            "id": "malegroomingkeywords:app/appdetail"
+          },
+          {
+            "isVisibleOnWeb": true,
+            "name": "App",
+            "key": "malegroomingkeywords++app",
+            "id": "malegroomingkeywords:app"
+          }
+        ]
+      },
+      {
+        "previewimage": "",
+        "spotlightLogo": "",
+        "newsfeedLogo": "",
         "modDate": "1541145192049",
         "overlay": "",
         "linkurl": "",
