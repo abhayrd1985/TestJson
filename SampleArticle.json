@@ -515,6 +515,42 @@
         "previewimage": "",
         "spotlightLogo": "",
         "newsfeedLogo": "",
+        "modDate": "1539588067921",
+        "overlay": "",
+        "linkurl": "",
+        "partnername": "",
+        "portraitimage": "",
+        "title": "Test Hi123 How to stop razor burn",
+        "link": "https://www.usa.philips.com/c-w/malegrooming/products/face-shave/how-to-stop-razor-burn.html",
+        "uid": "How to stop razor burn",
+        "imageUrl": "https://www.usa.philips.com/c-dam/b2c/male-grooming-experience-center/master/generic/Engaging-Content/How-to-stop-razor-burn_Newsfeed.jpg",
+        "text": "",
+        "description": "In partnership with Craig the Barber. ",
+        "tags": [
+          {
+            "isVisibleOnWeb": true,
+            "name": "App",
+            "key": "malegroomingkeywords++app",
+            "id": "malegroomingkeywords:app"
+          },
+          {
+            "isVisibleOnWeb": true,
+            "name": "App Detail",
+            "key": "malegroomingkeywords++app+appdetail",
+            "id": "malegroomingkeywords:app/appdetail"
+          },
+          {
+            "isVisibleOnWeb": true,
+            "name": "Featured",
+            "key": "malegroomingkeywords++app+Featured",
+            "id": "malegroomingkeywords:app/Featured"
+          }
+        ]
+      },
+      {
+        "previewimage": "",
+        "spotlightLogo": "",
+        "newsfeedLogo": "",
         "modDate": "1539587004593",
         "overlay": "",
         "linkurl": "",
